@@ -6,4 +6,8 @@
   <Folder Name="/Services/Catalog/">
     <Project Path="Services/Catalog/Catalog.API/Catalog.API.csproj" />
   </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path="compose.override.yaml" />
+    <File Path="compose.yaml" />
+  </Folder>
 </Solution>
